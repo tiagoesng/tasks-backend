@@ -29,5 +29,8 @@ build/
 
 ### VS Code ###
 .vscode/
-.devcontainer/
 **/.DS_Store
+
+### Docker ###
+.devcontainer/
+.pgadmin/
